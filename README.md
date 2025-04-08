@@ -25,7 +25,7 @@ Here's a breakdown of the main tools, frameworks, and platforms I use:
 - **MySQL** | **PostgreSQL** | **Redis** | **MongDB**
 
 ### Data & Visualization Tools
-- **Tableau** | **Pandas** | **NumPy** | **Matplotlib**
+- **Tableau** | **Pandas** | **Matplotlib**
 
 ### Cybersecurity
 - Knowledgeable in **network security**, **ethical hacking**, and **data protection** practices.
@@ -51,8 +51,8 @@ Here are some of my featured projects. You can check out the full list and detai
 Let’s connect! Feel free to reach out or follow me on these platforms:
 
 - **LinkedIn**: [Henrique Lecce](https://www.linkedin.com/in/henrique-lecce-311a45234/)
-- **GitHub**: [HSLPines](https://github.com/HSLPines)
-- **Instagram**: [hlecce73](https://www.instagram.com/hlecce73/)
+- **GitHub**: [hqlcc](https://github.com/hqlcc)
+- **Instagram**: [hq.lcc](https://www.instagram.com/hq.lcc/)
 - **Email**: [hlecce.contato@gmail.com](mailto:hlecce.contato@gmail.com)
 
 ---
