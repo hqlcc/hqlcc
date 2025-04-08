@@ -10,9 +10,7 @@ Driven by curiosity and a deep interest in interdisciplinary knowledge, I seek t
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/hq.lcc/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-lecce-311a45234/)  
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23BD081C.svg?style=flat&logo=pinterest&logoColor=white)](https://br.pinterest.com/henriquelecce/)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/hq.lcc/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-lecce-311a45234/)  [![Pinterest](https://img.shields.io/badge/Pinterest-%23BD081C.svg?style=flat&logo=pinterest&logoColor=white)](https://br.pinterest.com/henriquelecce/)  
 📬 Email: [hlecce.contato@gmail.com](mailto:hlecce.contato@gmail.com)
 
 ---
