@@ -1,16 +1,11 @@
 
 # Henrique Lecce
 
-Welcome to my portfolio! I’m Henrique Lecce, a **versatile programmer, data scientist, cybersecurity enthusiast, hardware developer, and researcher**. Here, you’ll find my collection of projects, contact information, and the tools and languages I use to turn ideas into impactful solutions.
-
----
-
 ## 👨‍💻 About Me
 
-I'm a passionate tech professional with a broad skill set in **front-end** and **back-end** development, data analysis, cybersecurity, and hardware prototyping. My work is driven by curiosity and a desire to bridge technology with meaningful, real-world applications exploring how we can create seamless connections between humans, nature and technology and improve communities through data-driven insights.
+Welcome to my portfolio! I’m Henrique Lecce, a **versatile computer scientist** with a broad skill set in **front-end** and **back-end** development, data analysis, cybersecurity, and hardware prototyping. My work is driven by curiosity and a desire to bridge technology with meaningful, real-world applications exploring how we can create seamless connections between humans, nature and technology and improve communities through data-driven insights.
 
 ---
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/hq.lcc/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/henrique-lecce-311a45234/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://br.pinterest.com/henriquelecce/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hlecce.contato@gmail.com) 
@@ -29,11 +24,3 @@ I'm a passionate tech professional with a broad skill set in **front-end** and *
 [![](https://visitcount.itsvg.in/api?id=hqlcc&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
----
-
-## 🌱 Current Interests
-
-I’m currently exploring advanced **data science methodologies** and **ethical hacking techniques**. My research interests include **Human-Machine Interaction (HMI)** and **AI applications in real-time analysis** for creating efficient and responsive systems. I am also dedicated to applying **AI for satellite imagery analysis**, particularly for identifying heat patterns to support community-focused environmental improvements.
-
-Thanks for visiting my portfolio! I hope you enjoy browsing my projects as much as I enjoyed creating them.
