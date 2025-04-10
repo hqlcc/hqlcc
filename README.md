@@ -1,4 +1,3 @@
-# Henrique Lecce
 
 ## 👨‍💻 About Me
 
