@@ -54,7 +54,7 @@ const Navbar = () => {
 
         </a>
 
-        <a href="https://github.com/HSLPines" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/hqlcc" target="_blank" rel="noopener noreferrer">
           
           <li className="cursor-pointer text-xl opacity-70 
             transition-all duration-300 hover:text-purple-500
@@ -64,7 +64,7 @@ const Navbar = () => {
 
         </a>
 
-        <a href="https://www.instagram.com/hlecce73/" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.instagram.com/hq.lcc/" target="_blank" rel="noopener noreferrer">
           
           <li className="cursor-pointer text-xl opacity-70 
             transition-all duration-300 hover:text-red-500
@@ -122,7 +122,7 @@ const Navbar = () => {
 
               </a>
 
-              <a href="https://github.com/HSLPines" target="_blank" rel="noopener noreferrer">
+              <a href="https://github.com/hqlcc" target="_blank" rel="noopener noreferrer">
                 
                 <li className="cursor-pointer text-xl opacity-70 
                   transition-all duration-300 hover:text-purple-500
@@ -132,7 +132,7 @@ const Navbar = () => {
 
               </a>
 
-              <a href="https://www.instagram.com/hlecce73/" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.instagram.com/hq.lcc/" target="_blank" rel="noopener noreferrer">
                 
                 <li className="cursor-pointer text-xl opacity-70 
                   transition-all duration-300 hover:text-red-500
