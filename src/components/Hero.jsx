@@ -10,17 +10,6 @@ const Hero = () => {
     <div id="home" className='px-16 flex min-h-screen w-full items-center justify-center py-28'>
 
       <div className='flex flex-col xl:flex-row items-center justify-center gap-10 text-white'>
-        
-        {/* Imagem */}
-        <motion.div
-          initial={{y: -50, opacity: 0}}
-          animate={{y: 0, opacity: 1}}
-          transition={{duration: 0.8, delay: 0.2}}
-        >
-          <img src={image} alt="" className='w-[500px] cursor-pointer rounded-full shadow-xl shadow-green-900 
-            transition-all duration-300 hover:scale-105 hover:shadow-2xl hover:shadow-green-600
-            md:w-[350px]' />
-        </motion.div>
 
         {/* Texto e Botões */}
         <motion.div 
