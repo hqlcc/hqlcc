@@ -1,9 +1,9 @@
 
 ## 👨‍💻 About Me
 
-Welcome to my portfolio! I’m Henrique Lecce, a **versatile computer scientist** with skills in **front-end** and **back-end** development, **data analysis**, **cybersecurity**, and **hardware prototyping**.
+**Welcome** to my portfolio! I’m Henrique Lecce, I’m a passionate developer with a wide range of skills including **front-end** and **back-end** development, **data analysis**, **cybersecurity**, and **hardware prototyping**. 
 
-Driven by curiosity and a deep interest in interdisciplinary knowledge, I seek to create technology that fosters real-world impact—building bridges between **humans, nature, and machines**, and empowering communities through **data-driven insights**.
+I love integrating tech with different sciences, people, and real-world solutions.
 
 ---
 
