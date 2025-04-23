@@ -54,14 +54,9 @@ I love integrating tech with different sciences, people, and real-world solution
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi) 
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black)
 
-### 📊 Data Science & Engineering  
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white) 
-
 ### 🎨 UI/UX & Design  
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
-![GIMP](https://img.shields.io/badge/gimp-%235C5543.svg?style=flat&logo=gimp&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=white) 
+![PHOTOSHOP](https://img.shields.io/badge/Photoshop%20-470137?style=flat&logo=Photoshop%20XD&logoColor=white) 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white)
 
 ---
