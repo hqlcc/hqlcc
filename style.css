@@ -567,6 +567,13 @@ span {
     line-height: 22px;
 }
 
+.timeline-content img{
+    width: 70%;
+    height: 70%;
+    border-radius: 2rem;
+    box-shadow: 0 0 25px var(--second-color);
+}
+
 .contact{
     background-color: var(--bg-color);
 }
