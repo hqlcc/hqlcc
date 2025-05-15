@@ -425,7 +425,7 @@ span {
 
 .skills-box{
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     justify-content: center;
     background-color: var(--first-color);
     height: 600px;
