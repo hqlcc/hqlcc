@@ -10,13 +10,12 @@ I love integrating tech with different sciences, people, and real-world solution
 ## 🛠️ Tech Stack
 
 ### 🧠 Programming Languages
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) 
-![Shell](https://img.shields.io/badge/Shell/Bash-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)  
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
 
 
 ### 🖥️ Frontend Tools  
@@ -74,7 +73,6 @@ I love integrating tech with different sciences, people, and real-world solution
 ### Social  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/hq.lcc/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-lecce-311a45234/)  
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23BD081C.svg?style=flat&logo=pinterest&logoColor=white)](https://br.pinterest.com/henriquelecce/)  
 📬 Email: [hlecce.contato@gmail.com](mailto:hlecce.contato@gmail.com)
 
 </td>
