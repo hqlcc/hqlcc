@@ -1,9 +1,7 @@
 
 ## 👨‍💻 About Me
 
-**Welcome** to my portfolio! I’m Henrique Lecce, I’m a passionate developer with a wide range of skills including **front-end** and **back-end** development, **UX/UI Design** and **cybersecurity**. 
-
-I love integrating tech with different sciences, people, and real-world solutions.
+Passionate Data Science student who loves turning ideas into clean, functional, and meaningful code. Enthusiast of knowledge in all its forms, always exploring ways to blend technology with other fields. Focused on building practical solutions, learning continuously, and improving with every project.
 
 ---
 
